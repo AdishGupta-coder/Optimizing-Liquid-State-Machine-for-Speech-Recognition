@@ -13,5 +13,11 @@ This repository would contain learning work and experiments on **Spiking Neural 
 4. Then try to optimize the reservoir.
 
 ## Parts of this repository are derived from
+
+**SNNTorch-LSM**
 - Repository : [https://github.com/SNNalgo/snntorch-LSM/](https://github.com/SNNalgo/snntorch-LSM/)
 - License : GPL-3.0
+
+**SNNTorch Tutorials**
+- Repository : [https://github.com/jeshraghian/snntorch/](https://github.com/jeshraghian/snntorch/)
+- License : MIT
